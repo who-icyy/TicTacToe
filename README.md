@@ -4,8 +4,7 @@ A Flutter Game.
 
 # Screenshots
 
-![alt text](https://github.com/who-icyy/TicTacToe/blob/main/Screenshots/flutter_01.png)
-![alt text](https://github.com/who-icyy/TicTacToe/blob/main/Screenshots/flutter_02.png)
-![alt text](https://github.com/who-icyy/TicTacToe/blob/main/Screenshots/flutter_03.png)
-![alt text](https://github.com/who-icyy/TicTacToe/blob/main/Screenshots/flutter_04.png)
-![Screenshots](flutter_1.png)
+![Screenshot](Screenshots/flutter_1.png)
+![Screenshot](Screenshots/flutter_2.png)
+![Screenshot](Screenshots/flutter_3.png)
+![Screenshot](Screenshots/flutter_4.png)
